@@ -1,6 +1,3 @@
-fastapi
-uvicorn
+streamlit
 torch
 transformers
-pydantic
-jinja2
